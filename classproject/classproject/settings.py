@@ -25,7 +25,7 @@ SECRET_KEY = '+=d7iu01y&&s_r9!xt(xf74hyr0^svnhrxulkg7n7zj78(%s99'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chocobawm.pythonanywhere.com']
 
 
 # Application definition
