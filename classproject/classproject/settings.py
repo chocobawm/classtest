@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'news.apps.NewsConfig',
+    #'news.apps.NewsConfig', this seems to break things
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
